@@ -38,11 +38,10 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
+              <strong>{author}</strong> is founder of Beyond Hackers and specializes in building blockchain applications.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+              <a href={`https://www.beyondhackers.com`}>
+                Check out some of her decentralized applications.
               </a>
             </p>
           </div>
@@ -54,7 +53,7 @@ function Bio() {
 
 const bioQuery = graphql`
   query BioQuery {
-    avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+    avatar: file(absolutePath: { regex: "/blockchain_explainer_portia_burton.png/" }) {
       childImageSharp {
         fixed(width: 50, height: 50) {
           ...GatsbyImageSharpFixed
