@@ -1,5 +1,6 @@
 backend:
-  name: pkafei-dev
+  name: github
+  repo: pkafei/pkafei-dev
   branch: master # Branch to update (optional; defaults to master)
 
 publish_mode: editorial_workflow
