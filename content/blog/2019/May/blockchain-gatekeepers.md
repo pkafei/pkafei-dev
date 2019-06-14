@@ -1,5 +1,7 @@
 ---
 title: When the Gatekeepers Choose Blockchain
-date: "2019-05-13"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+date: 2019-06-14T19:00:00.000Z
+thumbnail: /content/assets/screen-shot-2019-04-30-at-4.54.27-pm.png
+rating: 5
 ---
+This is totally a test.
