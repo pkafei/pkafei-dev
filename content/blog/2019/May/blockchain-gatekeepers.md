@@ -6,4 +6,4 @@ rating: 5
 ---
 This is totally a test. 
 
-![read me again](/static/images/uploads/screen-shot-2019-04-30-at-4.54.27-pm.png "read me")
+![read me again](https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1558813957/desk_deglkt.jpg)
